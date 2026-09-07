@@ -12,9 +12,7 @@ The program uses a user-defined function called `findlegth()` and a character po
 ## 📂 Project Structure
 
 Indicator
-|
-|String-Length
-|
+├──Length-finder
 ├── main.c
 ├── output.png
 └── README.md
@@ -32,6 +30,9 @@ Indicator
 * **Language:** C
 * **Header File:** `stdio.h`
 * **Compiler:** GCC / Turbo C / Code::Blocks / VS Code
+
+## output
+![Program output](output.png)
 
 
 ## ⚙️ How the Program Works

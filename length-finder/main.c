@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-int findlegth(char *ptr)
+int findlength(char *ptr)
 {
 
     int length = 0;
 
-    while (*ptr |= '\0')
+    while (*ptr != '\0')
     {
         length++;
         ptr++;
@@ -28,6 +28,6 @@ int main()
         }
     }
 
-    printf("the length of a string is %d", findlegth(str));
+    printf("the length of a string is %d", findlength(str));
     return 0;
 }
