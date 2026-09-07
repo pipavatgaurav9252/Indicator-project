@@ -12,7 +12,7 @@ The program uses a user-defined function called `findlength()` and a character p
 ## 📂 Project Structure
 
 
-Length-finder
+length-finder
 ├── main.c
 ├── output.png
 └── README.md
