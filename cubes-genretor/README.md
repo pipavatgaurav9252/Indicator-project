@@ -10,9 +10,8 @@ The program uses a user-defined function `findcubes()` and a pointer to access t
 
 ## 📂 Project Structure
 
-```text
+
 Cubes-genretor
-│
 ├── main.c
 ├── output.png
 └── README.md
@@ -36,7 +35,6 @@ Cubes-genretor
 
 ## output
 ![Progarm Output](output.png)
-
 ## ⚙️ How the Program Works
 
 ### 1. Get Array Size

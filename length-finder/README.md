@@ -4,15 +4,15 @@
 
 This project is a simple C program that finds the **length of a string without using the built-in `strlen()` function**.
 
-The program uses a user-defined function called `findlegth()` and a character pointer to count the number of characters in the given string.
+The program uses a user-defined function called `findlength()` and a character pointer to count the number of characters in the given string.
 
 ---
 
 
 ## 📂 Project Structure
 
-Indicator
-├──Length-finder
+
+Length-finder
 ├── main.c
 ├── output.png
 └── README.md
